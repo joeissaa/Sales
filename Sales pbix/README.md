@@ -1,6 +1,6 @@
 # 📊 Sales Analysis Dashboard
 ## 📌 Business Problem
-The company lacks visibility into its sales performance across different regions and products. \n
+The company lacks visibility into its sales performance across different regions and products. 
 There is no clear understanding of which products generate the most profit or which customer segments are most valuable.
 The company wants to understand which products are causing losses due to high returns and the rate of increase each year.
 ## 📊 Project Overview
