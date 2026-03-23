@@ -4,6 +4,8 @@ This document highlights the key insights derived from the sales dashboard analy
 The goal is to help stakeholders understand performance trends and make better business decisions.
 ## 🌍 Top Performing Country
 
+
+
 The United States generates the highest sales among all countries.
 
 ### 📊 Explanation:
