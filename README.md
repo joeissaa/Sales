@@ -26,7 +26,7 @@ The dataset includes:
 ## 🧩 Data Model
 The data model follows a star schema with a central product fact table connected to dimension tables such as customers,return data and regions.
 
-![Data Model](Sales pbix\images/data_model.png)
+![Data Model](Sales%pbix/images/data_model.png)
 ## 📊 Dashboard Features
 
 - KPI Cards (Total Profit, Total Quantity)
