@@ -4,8 +4,6 @@ This document highlights the key insights derived from the sales dashboard analy
 The goal is to help stakeholders understand performance trends and make better business decisions.
 ## 🌍 Top Performing Country
 
-
-
 The United States generates the highest sales among all countries.
 
 ### 📊 Explanation:
@@ -13,8 +11,11 @@ This indicates a strong market presence and higher customer demand in this regio
 
 ### 💡 Business Impact:
 The company should focus on maintaining and expanding operations in this market.
+
 ## ✨💍⌚ Product Category Performance
+
 Accessories dominate total sales compared to other categories.
+
 ### 📊 Explanation:
 This suggests higher customer preference for Accessories.
 
