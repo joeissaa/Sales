@@ -38,7 +38,7 @@ The data model follows a star schema with a central product fact table connected
 - Interactive dashboard with slicers
 - Analysis return quantity by years & country
 ## 🖼️ Dashboard Preview
-![Dashboard](images/Sales_2020.png)
+![Dashboard](Sales_pbix\imagesSales_2020.png)
 ## 🧠 Key Insights
 - The United States generates the highest sales
 - Accessories category dominates sales
