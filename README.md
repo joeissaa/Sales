@@ -26,7 +26,7 @@ The dataset includes:
 ## 🧩 Data Model
 The data model follows a star schema with a central product fact table connected to dimension tables such as customers,return data and regions.
 
-![Data Model](Salespbix/images/data_model.png)
+![Data Model](Sales/images/data_model.png)
 ## 📊 Dashboard Features
 
 - KPI Cards (Total Profit, Total Quantity)
@@ -38,7 +38,7 @@ The data model follows a star schema with a central product fact table connected
 - Interactive dashboard with slicers
 - Analysis return quantity by years & country
 ## 🖼️ Dashboard Preview
-![Dashboard](Salespbix/images/Sales_2020.png)
+![Dashboard](Sales/images/Sales_2020.png)
 ## 🧠 Key Insights
 - The United States generates the highest sales
 - Accessories category dominates sales
