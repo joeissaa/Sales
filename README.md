@@ -62,4 +62,4 @@ powerbi-sales-analysis
 -  Return Rate % analysis
 - Add predictive analysis
 ## 👤 Author
-Uosef Eissa
+Data Analyst Project by Uosef Eissa
